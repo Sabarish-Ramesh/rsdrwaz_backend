@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Yuvan Pencil Art",
+        "price": 999.00,
+        "description": "Yuvan pencil sketch with his autograph ",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/yuvan/U11.jpg"
+            },
+            {
+                "image": "/images/products/yuvan/U12.cr2"
+            }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Super Singer Pooja Pencil Sketch",
+        "price": 1100.00,
+        "description": "Graphite pencil Art for super singer Pooja with minute detailings",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/pooja.jpg"
+            }
+        ],
+        "category": "Charcol Pencil Sketch",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "SeethaRam Movie graphite sketch",
+        "price": 1000.00,
+        "description": "Graphite pencil sketch for seetharam movie",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/seetharam.jpg"
+            }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Covid pandamic art",
+        "price": 900.00,
+        "description": "Graphite pencil sketch for covid warriors",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/covid.jpg"
+            }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Actor Kamal graphite sketch",
+        "price": 1000.00,
+        "description": "Graphite pencil sketch for Actor KamalHasan",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/kamal.jpg"
+            }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Actor Karthi graphite sketch",
+        "price": 800.00,
+        "description": "Graphite pencil sketch for Actor Karthi",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/karthi.jpg"
+            }
+        ],
+        "category": "Charcol Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "SeethaRam Movie graphite sketch",
+        "price": 1000.00,
+        "description": "Graphite pencil sketch for seetharam movie",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/seetharam.jpg"
+            }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "ArjunDas Pencil Sketch",
+        "price": 900.00,
+        "description": "ArjunDas Pencil Sketch with great detailing",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/arjundas.jpg"
+          }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Rolex-2",
+        "price": 1800.00,
+        "description": "Rolex graphite pencil sketch with 200% detailing",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/rolex-2.jpg"
+          }
+        ],
+        "category": "Graphite Pencil Sketch",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Actor Madhavan pencil sketch",
+        "price": 1500.00,
+        "description": "Hyper Realistic pencil sketch for actor maddy with charcol pencils",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/maddy.jpg"
+            }
+        ],
+        "category": "Charcol Pencil Sketch",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Actresss Saipallavi digital sketch",
+        "price": 600.00,
+        "description": "Actress saipallavi digital smudge art",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/saipallavi-fianl.jpeg"
+            }
+        ],
+        "category": "Digital Art",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
